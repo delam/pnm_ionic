@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" name="Default" comment="" />
+    <ignored path="payNearMeMobile.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular/angular.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396284032984" ignored="false" />
+    <file path="/menu.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396295700504" ignored="false" />
+    <file path="/payment.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396380764591" ignored="false" />
+    <file path="/payments.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472564028" ignored="false" />
+    <file path="/payment_reminders.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396288746180" ignored="false" />
+    <file path="/payment_locations.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396288758460" ignored="false" />
+    <file path="/controllers.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396363767623" ignored="false" />
+    <file path="/featured.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396288691993" ignored="false" />
+    <file path="/dashboard.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396368114865" ignored="false" />
+    <file path="/services.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396468904687" ignored="false" />
+    <file path="/a.dummy" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396462966323" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/js/controllers.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/payments.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/featured.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/index.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/index.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_animations.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_animations.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_popup.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_scaffolding.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_popup.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_platform.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_variables.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_scaffolding.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396212750523" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_mixins.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_platform.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_variables.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_mixins.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_action-sheet.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_action-sheet.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/payment_reminders.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/payment_locations.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/HelloCordova/HelloCordova-Info.plist" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205743149" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/payment_reminders.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/payment_locations.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_bar.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_bar.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.min.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273523233" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.min.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular-sanitize.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396284032984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396297040715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular-sanitize.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504514" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396297040715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova.dep" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205743149" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396212750523" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/build-state.dat" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205743149" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396212750523" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/payment.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/menu.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504515" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/dashboard.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/payments.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/js/controllers.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504515" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/templates/featured.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/payment.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/menu.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396205504515" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/templates/dashboard.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396283559350" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396297040715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396275731433" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396283687928" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_form.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_form.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_button.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396212750523" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_button.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396212750523" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_reset.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194380" ignored="false" />
+    <file path="/style.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396287746758" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular-ui/angular-ui-router.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular/angular-animate.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular-ui/angular-ui-router.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/angular/angular-resource.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular-animate.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/fonts/ionicons.svg" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/angular/angular-resource.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/fonts/ionicons.svg" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_reset.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396273395566" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/css/style.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396284032984" ignored="false" />
+    <file path="/ionic-angular.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396275775545" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/css/style.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396284032984" ignored="false" />
+    <file path="/ionic.bundle.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396275815544" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396465053722" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/controllers/api_controller.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396443984822" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/pay_token.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/views/buy_nows/_interstitial.haml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/lib/geography.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/order.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/Gemfile" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/controllers/buy_nows_controller.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396276458200" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/config/routes.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/settlement_method.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/views/buy_nows/_show_javascript.haml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/retailer_location.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/user.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/merchant_user.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/lib/tasks/db.rake" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/db/schema.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464607573" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/site.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/log_events/auditable_event.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/controllers/registrations_controller.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="/app.js" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396276509641" ignored="false" />
+    <file path="/index.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396467504635" ignored="false" />
+    <file path="/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396284555107" ignored="false" />
+    <file path="/ionic.app.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396473035498" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/PayNearMe Mobile/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396297040715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396296012684" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/config.xml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396297040715" ignored="false" />
+    <file path="/settings.html" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396295463753" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/lib/ionic/css/ionic.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194380" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/lib/ionic/css/ionic.min.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194380" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/css/ionic.app.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194380" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/concerns/factories/order.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/presentment.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/lib/built_in_extensions.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/reserved_card.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/spec/models/consumer_user_spec.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/retailer_economics.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/lock.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/compliance_attachment.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/pricing_plan.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/callback.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/pricing_plan_map.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/merchant_take.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/text_report.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/bin_range.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/payment.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/card_fulfillment_sku.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/concerns/custom_site.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/r.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/photo.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/concerns/mp/mp_site.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/collector_payment.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/bulk/upload_template.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/lib/salesforce.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/retailer.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/merchant_settlement_batch.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/bulk/auto_order.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/consumer_user.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/fund_auth.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/fund_release.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/models/bulk/bulk_order.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396385088785" ignored="false" />
+    <file path="/api_controller.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396443984822" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/views/site_mgr/developer_api/_testbed.haml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464175379" ignored="false" />
+    <file path="/_testbed.haml" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464157266" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/app/helpers/site_mgr_helper.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464143541" ignored="false" />
+    <file path="/site_mgr_helper.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396463917761" ignored="false" />
+    <file path="$PROJECT_DIR$/../../topo/spec/helpers/site_mgr_helper_spec.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464339733" ignored="false" />
+    <file path="/site_mgr_helper_spec.rb" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396464339733" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/css/ionic.app.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194380" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/lib/ionic/scss/_scaffolding.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/css/ionic.app.min.css" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/PayNearMe Mobile.app/www/lib/ionic/scss/_reset.scss" changelist="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" time="1396472194381" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="payNearMeMobile" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="24" selection-start="813" selection-end="813" vertical-scroll-proportion="-14.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="20" selection-start="594" selection-end="594" vertical-scroll-proportion="-6.875">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#ion-item#0;n#ion-list#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionic.app.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="16" selection-start="1962" selection-end="1962" vertical-scroll-proportion="-35.454544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="featured.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/featured.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="30" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/payment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="18" selection-start="236" selection-end="248" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="5" selection-start="827" selection-end="827" vertical-scroll-proportion="0.39071348">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="68" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment_reminders.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/payment_reminders.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="418" selection-end="623" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payments.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/payments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="19" selection-start="476" selection-end="476" vertical-scroll-proportion="-3.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/lib/ionic/js/ionic-angular.js" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/templates/menu.html" />
+        <option value="$PROJECT_DIR$/www/templates/payment_locations.html" />
+        <option value="$PROJECT_DIR$/www/templates/settings.html" />
+        <option value="$PROJECT_DIR$/www/templates/payment_reminders.html" />
+        <option value="$PROJECT_DIR$/www/templates/featured.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/templates/dashboard.html" />
+        <option value="$PROJECT_DIR$/www/templates/payment.html" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/services.js" />
+        <option value="$PROJECT_DIR$/www/templates/payments.html" />
+        <option value="$PROJECT_DIR$/scss/ionic.app.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="376" />
+    <option name="y" value="22" />
+    <option name="width" value="1224" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payNearMeMobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec139ec5-2cc1-4c9a-b2df-49f52f011d4e" name="Default" comment="" />
+      <created>1396195954243</created>
+      <updated>1396195954243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="376" y="22" width="1224" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26740238" sideWeight="0.86680543" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1331946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/lib/ionic/js/ionic-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3234" column="18" selection-start="101824" selection-end="101824" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/css/ionic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/payment_locations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="119" selection-start="357" selection-end="357" vertical-scroll-proportion="-3.75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="28" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="27" selection-start="755" selection-end="764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/featured.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="594" selection-end="594" vertical-scroll-proportion="-6.875">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#ion-item#0;n#ion-list#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/payment_reminders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="418" selection-end="623" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="236" selection-end="248" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="68" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="813" selection-end="813" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/payments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="476" selection-end="476" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="16" selection-start="1962" selection-end="1962" vertical-scroll-proportion="-35.454544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="827" selection-end="827" vertical-scroll-proportion="0.39071348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

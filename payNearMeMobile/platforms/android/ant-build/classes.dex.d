@@ -1,0 +1,25 @@
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes.dex : \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/BuildConfig.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/HelloCordova.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$attr.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$drawable.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$string.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$xml.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/elam/projects/ionic/payNearMeMobile/platforms/android/ant-build/dexedLibs/classes-3e24cbc7bd8eff00e29b3d009bf793e5.jar \

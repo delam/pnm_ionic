@@ -1,0 +1,390 @@
+2014-03-30 08:46:34.368 HelloCordova[22361:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 08:46:34.386 HelloCordova[22361:70b] Unlimited access to network resources
+2014-03-30 08:46:34.598 HelloCordova[22361:70b] [CDVTimer][statusbar] 51.636994ms
+2014-03-30 08:46:34.598 HelloCordova[22361:70b] [CDVTimer][TotalPluginStartup] 52.132010ms
+2014-03-30 08:46:34.687 HelloCordova[22361:70b] Resetting plugins due to page load.
+2014-03-30 08:46:35.024 HelloCordova[22361:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/playlists
+2014-03-30 10:05:59.868 HelloCordova[22894:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:05:59.874 HelloCordova[22894:70b] Unlimited access to network resources
+2014-03-30 10:05:59.897 HelloCordova[22894:70b] [CDVTimer][statusbar] 7.286966ms
+2014-03-30 10:05:59.897 HelloCordova[22894:70b] [CDVTimer][TotalPluginStartup] 7.644951ms
+2014-03-30 10:05:59.926 HelloCordova[22894:70b] Resetting plugins due to page load.
+2014-03-30 10:06:00.143 HelloCordova[22894:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:12:31.671 HelloCordova[23225:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:12:31.676 HelloCordova[23225:70b] Unlimited access to network resources
+2014-03-30 10:12:31.698 HelloCordova[23225:70b] [CDVTimer][statusbar] 7.169962ms
+2014-03-30 10:12:31.698 HelloCordova[23225:70b] [CDVTimer][TotalPluginStartup] 7.520020ms
+2014-03-30 10:12:31.727 HelloCordova[23225:70b] Resetting plugins due to page load.
+2014-03-30 10:12:31.888 HelloCordova[23225:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:21:05.159 HelloCordova[23562:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:21:05.164 HelloCordova[23562:70b] Unlimited access to network resources
+2014-03-30 10:21:05.185 HelloCordova[23562:70b] [CDVTimer][statusbar] 7.443011ms
+2014-03-30 10:21:05.186 HelloCordova[23562:70b] [CDVTimer][TotalPluginStartup] 7.804990ms
+2014-03-30 10:21:05.215 HelloCordova[23562:70b] Resetting plugins due to page load.
+2014-03-30 10:21:05.383 HelloCordova[23562:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:22:16.682 HelloCordova[23864:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:22:16.688 HelloCordova[23864:70b] Unlimited access to network resources
+2014-03-30 10:22:16.709 HelloCordova[23864:70b] [CDVTimer][statusbar] 7.070959ms
+2014-03-30 10:22:16.709 HelloCordova[23864:70b] [CDVTimer][TotalPluginStartup] 7.481992ms
+2014-03-30 10:22:16.738 HelloCordova[23864:70b] Resetting plugins due to page load.
+2014-03-30 10:22:16.962 HelloCordova[23864:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:25:44.394 HelloCordova[24173:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:25:44.399 HelloCordova[24173:70b] Unlimited access to network resources
+2014-03-30 10:25:44.421 HelloCordova[24173:70b] [CDVTimer][statusbar] 7.762969ms
+2014-03-30 10:25:44.421 HelloCordova[24173:70b] [CDVTimer][TotalPluginStartup] 8.109987ms
+2014-03-30 10:25:44.450 HelloCordova[24173:70b] Resetting plugins due to page load.
+2014-03-30 10:25:44.612 HelloCordova[24173:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:49:09.023 HelloCordova[24569:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 10:49:09.028 HelloCordova[24569:70b] Unlimited access to network resources
+2014-03-30 10:49:09.050 HelloCordova[24569:70b] [CDVTimer][statusbar] 7.544994ms
+2014-03-30 10:49:09.051 HelloCordova[24569:70b] [CDVTimer][TotalPluginStartup] 7.898986ms
+2014-03-30 10:49:09.079 HelloCordova[24569:70b] Resetting plugins due to page load.
+2014-03-30 10:49:09.286 HelloCordova[24569:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 10:54:11.961 HelloCordova[24569:70b] THREAD WARNING: ['InAppBrowser'] took '69.313965' ms. Plugin should use a background thread.
+2014-03-30 11:51:40.466 HelloCordova[25083:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 11:51:40.471 HelloCordova[25083:70b] Unlimited access to network resources
+2014-03-30 11:51:40.495 HelloCordova[25083:70b] [CDVTimer][statusbar] 10.079026ms
+2014-03-30 11:51:40.495 HelloCordova[25083:70b] [CDVTimer][TotalPluginStartup] 10.430992ms
+2014-03-30 11:51:40.530 HelloCordova[25083:70b] Resetting plugins due to page load.
+2014-03-30 11:51:40.706 HelloCordova[25083:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 11:52:23.913 HelloCordova[25390:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 11:52:23.919 HelloCordova[25390:70b] Unlimited access to network resources
+2014-03-30 11:52:23.940 HelloCordova[25390:70b] [CDVTimer][statusbar] 7.476985ms
+2014-03-30 11:52:23.940 HelloCordova[25390:70b] [CDVTimer][TotalPluginStartup] 7.845998ms
+2014-03-30 11:52:23.970 HelloCordova[25390:70b] Resetting plugins due to page load.
+2014-03-30 11:52:24.148 HelloCordova[25390:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 11:57:56.925 HelloCordova[25713:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 11:57:56.931 HelloCordova[25713:70b] Unlimited access to network resources
+2014-03-30 11:57:56.956 HelloCordova[25713:70b] [CDVTimer][statusbar] 8.243024ms
+2014-03-30 11:57:56.956 HelloCordova[25713:70b] [CDVTimer][TotalPluginStartup] 8.623958ms
+2014-03-30 11:57:56.989 HelloCordova[25713:70b] Resetting plugins due to page load.
+2014-03-30 11:57:57.226 HelloCordova[25713:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 12:06:18.261 HelloCordova[25713:70b] THREAD WARNING: ['InAppBrowser'] took '19.934082' ms. Plugin should use a background thread.
+2014-03-30 12:14:53.373 HelloCordova[26065:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 12:14:53.379 HelloCordova[26065:70b] Unlimited access to network resources
+2014-03-30 12:14:53.400 HelloCordova[26065:70b] [CDVTimer][statusbar] 7.263958ms
+2014-03-30 12:14:53.401 HelloCordova[26065:70b] [CDVTimer][TotalPluginStartup] 7.643998ms
+2014-03-30 12:14:53.430 HelloCordova[26065:70b] Resetting plugins due to page load.
+2014-03-30 12:14:53.628 HelloCordova[26065:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 12:17:18.184 HelloCordova[26380:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 12:17:18.190 HelloCordova[26380:70b] Unlimited access to network resources
+2014-03-30 12:17:18.212 HelloCordova[26380:70b] [CDVTimer][statusbar] 8.531988ms
+2014-03-30 12:17:18.213 HelloCordova[26380:70b] [CDVTimer][TotalPluginStartup] 9.119987ms
+2014-03-30 12:17:18.243 HelloCordova[26380:70b] Resetting plugins due to page load.
+2014-03-30 12:17:18.457 HelloCordova[26380:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 12:18:04.496 HelloCordova[26682:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 12:18:04.502 HelloCordova[26682:70b] Unlimited access to network resources
+2014-03-30 12:18:04.527 HelloCordova[26682:70b] [CDVTimer][statusbar] 8.190036ms
+2014-03-30 12:18:04.528 HelloCordova[26682:70b] [CDVTimer][TotalPluginStartup] 8.610010ms
+2014-03-30 12:18:04.557 HelloCordova[26682:70b] Resetting plugins due to page load.
+2014-03-30 12:18:04.733 HelloCordova[26682:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 12:28:38.144 HelloCordova[27015:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 12:28:38.150 HelloCordova[27015:70b] Unlimited access to network resources
+2014-03-30 12:28:38.176 HelloCordova[27015:70b] [CDVTimer][statusbar] 9.287953ms
+2014-03-30 12:28:38.176 HelloCordova[27015:70b] [CDVTimer][TotalPluginStartup] 9.669006ms
+2014-03-30 12:28:38.206 HelloCordova[27015:70b] Resetting plugins due to page load.
+2014-03-30 12:28:38.378 HelloCordova[27015:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 13:05:21.254 HelloCordova[27474:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 13:05:21.259 HelloCordova[27474:70b] Unlimited access to network resources
+2014-03-30 13:05:21.280 HelloCordova[27474:70b] [CDVTimer][statusbar] 7.458985ms
+2014-03-30 13:05:21.281 HelloCordova[27474:70b] [CDVTimer][TotalPluginStartup] 7.848024ms
+2014-03-30 13:05:21.310 HelloCordova[27474:70b] Resetting plugins due to page load.
+2014-03-30 13:05:21.470 HelloCordova[27474:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 13:35:45.888 HelloCordova[27868:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 13:35:45.894 HelloCordova[27868:70b] Unlimited access to network resources
+2014-03-30 13:35:45.916 HelloCordova[27868:70b] [CDVTimer][statusbar] 7.713974ms
+2014-03-30 13:35:45.917 HelloCordova[27868:70b] [CDVTimer][TotalPluginStartup] 8.101046ms
+2014-03-30 13:35:45.947 HelloCordova[27868:70b] Resetting plugins due to page load.
+2014-03-30 13:35:46.304 HelloCordova[27868:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 13:36:28.457 HelloCordova[28177:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 13:36:28.463 HelloCordova[28177:70b] Unlimited access to network resources
+2014-03-30 13:36:28.483 HelloCordova[28177:70b] [CDVTimer][statusbar] 7.104993ms
+2014-03-30 13:36:28.484 HelloCordova[28177:70b] [CDVTimer][TotalPluginStartup] 7.457972ms
+2014-03-30 13:36:28.512 HelloCordova[28177:70b] Resetting plugins due to page load.
+2014-03-30 13:36:28.685 HelloCordova[28177:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 13:38:28.600 HelloCordova[28487:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 13:38:28.606 HelloCordova[28487:70b] Unlimited access to network resources
+2014-03-30 13:38:28.627 HelloCordova[28487:70b] [CDVTimer][statusbar] 7.335007ms
+2014-03-30 13:38:28.627 HelloCordova[28487:70b] [CDVTimer][TotalPluginStartup] 7.679999ms
+2014-03-30 13:38:28.657 HelloCordova[28487:70b] Resetting plugins due to page load.
+2014-03-30 13:38:28.831 HelloCordova[28487:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 13:48:56.780 HelloCordova[28825:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 13:48:56.785 HelloCordova[28825:70b] Unlimited access to network resources
+2014-03-30 13:48:56.806 HelloCordova[28825:70b] [CDVTimer][statusbar] 7.143974ms
+2014-03-30 13:48:56.807 HelloCordova[28825:70b] [CDVTimer][TotalPluginStartup] 7.489026ms
+2014-03-30 13:48:56.836 HelloCordova[28825:70b] Resetting plugins due to page load.
+2014-03-30 13:48:57.010 HelloCordova[28825:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-30 14:07:14.765 HelloCordova[29192:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 14:07:14.771 HelloCordova[29192:70b] Unlimited access to network resources
+2014-03-30 14:07:14.793 HelloCordova[29192:70b] [CDVTimer][statusbar] 7.160008ms
+2014-03-30 14:07:14.793 HelloCordova[29192:70b] [CDVTimer][TotalPluginStartup] 7.524967ms
+2014-03-30 14:07:14.826 HelloCordova[29192:70b] Resetting plugins due to page load.
+2014-03-30 14:07:15.045 HelloCordova[29192:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 06:42:23.518 HelloCordova[30172:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 06:42:23.532 HelloCordova[30172:70b] Unlimited access to network resources
+2014-03-31 06:42:23.568 HelloCordova[30172:70b] [CDVTimer][statusbar] 18.175960ms
+2014-03-31 06:42:23.568 HelloCordova[30172:70b] [CDVTimer][TotalPluginStartup] 18.545032ms
+2014-03-31 06:42:23.724 HelloCordova[30172:70b] Resetting plugins due to page load.
+2014-03-31 06:42:23.953 HelloCordova[30172:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 06:45:06.888 HelloCordova[30487:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 06:45:06.893 HelloCordova[30487:70b] Unlimited access to network resources
+2014-03-31 06:45:06.914 HelloCordova[30487:70b] [CDVTimer][statusbar] 7.066965ms
+2014-03-31 06:45:06.914 HelloCordova[30487:70b] [CDVTimer][TotalPluginStartup] 7.432997ms
+2014-03-31 06:45:06.943 HelloCordova[30487:70b] Resetting plugins due to page load.
+2014-03-31 06:45:07.115 HelloCordova[30487:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:21:31.767 HelloCordova[30813:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:21:31.773 HelloCordova[30813:70b] Unlimited access to network resources
+2014-03-31 07:21:31.794 HelloCordova[30813:70b] [CDVTimer][statusbar] 7.032990ms
+2014-03-31 07:21:31.794 HelloCordova[30813:70b] [CDVTimer][TotalPluginStartup] 7.378995ms
+2014-03-31 07:21:31.823 HelloCordova[30813:70b] Resetting plugins due to page load.
+2014-03-31 07:21:31.982 HelloCordova[30813:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:23:43.363 HelloCordova[30984:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:23:43.369 HelloCordova[30984:70b] Unlimited access to network resources
+2014-03-31 07:23:43.392 HelloCordova[30984:70b] [CDVTimer][statusbar] 7.893026ms
+2014-03-31 07:23:43.393 HelloCordova[30984:70b] [CDVTimer][TotalPluginStartup] 8.285999ms
+2014-03-31 07:23:43.425 HelloCordova[30984:70b] Resetting plugins due to page load.
+2014-03-31 07:23:43.607 HelloCordova[30984:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:24:40.562 HelloCordova[31459:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:24:40.567 HelloCordova[31459:70b] Unlimited access to network resources
+2014-03-31 07:24:40.588 HelloCordova[31459:70b] [CDVTimer][statusbar] 7.027030ms
+2014-03-31 07:24:40.589 HelloCordova[31459:70b] [CDVTimer][TotalPluginStartup] 7.409990ms
+2014-03-31 07:24:40.618 HelloCordova[31459:70b] Resetting plugins due to page load.
+2014-03-31 07:24:40.784 HelloCordova[31459:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:26:36.356 HelloCordova[31772:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:26:36.362 HelloCordova[31772:70b] Unlimited access to network resources
+2014-03-31 07:26:36.383 HelloCordova[31772:70b] [CDVTimer][statusbar] 7.237971ms
+2014-03-31 07:26:36.383 HelloCordova[31772:70b] [CDVTimer][TotalPluginStartup] 7.598042ms
+2014-03-31 07:26:36.412 HelloCordova[31772:70b] Resetting plugins due to page load.
+2014-03-31 07:26:36.577 HelloCordova[31772:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:27:18.448 HelloCordova[32280:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:27:18.454 HelloCordova[32280:70b] Unlimited access to network resources
+2014-03-31 07:27:18.476 HelloCordova[32280:70b] [CDVTimer][statusbar] 7.559955ms
+2014-03-31 07:27:18.477 HelloCordova[32280:70b] [CDVTimer][TotalPluginStartup] 7.934034ms
+2014-03-31 07:27:18.541 HelloCordova[32280:70b] Resetting plugins due to page load.
+2014-03-31 07:27:18.727 HelloCordova[32280:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:29:49.518 HelloCordova[32595:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 07:29:49.524 HelloCordova[32595:70b] Unlimited access to network resources
+2014-03-31 07:29:49.547 HelloCordova[32595:70b] [CDVTimer][statusbar] 7.447004ms
+2014-03-31 07:29:49.547 HelloCordova[32595:70b] [CDVTimer][TotalPluginStartup] 7.797956ms
+2014-03-31 07:29:49.575 HelloCordova[32595:70b] Resetting plugins due to page load.
+2014-03-31 07:29:49.737 HelloCordova[32595:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html#/app/dashboard
+2014-03-31 07:30:06.824 HelloCordova[32595:70b] THREAD WARNING: ['InAppBrowser'] took '32.266113' ms. Plugin should use a background thread.
+2014-03-31 07:30:06.852 HelloCordova[32595:70b] webView:didFailLoadWithError - -1009: The Internet connection appears to be offline.
+2014-03-31 09:29:14.214 HelloCordova[33153:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:29:14.230 HelloCordova[33153:70b] Unlimited access to network resources
+2014-03-31 09:29:14.275 HelloCordova[33153:70b] [CDVTimer][statusbar] 23.350954ms
+2014-03-31 09:29:14.275 HelloCordova[33153:70b] [CDVTimer][TotalPluginStartup] 23.728013ms
+2014-03-31 09:29:14.398 HelloCordova[33153:70b] Resetting plugins due to page load.
+2014-03-31 09:29:14.525 HelloCordova[33153:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html
+2014-03-31 09:32:14.691 HelloCordova[33471:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:32:14.696 HelloCordova[33471:70b] Unlimited access to network resources
+2014-03-31 09:32:14.716 HelloCordova[33471:70b] [CDVTimer][statusbar] 6.039977ms
+2014-03-31 09:32:14.717 HelloCordova[33471:70b] [CDVTimer][TotalPluginStartup] 6.419003ms
+2014-03-31 09:32:14.745 HelloCordova[33471:70b] Resetting plugins due to page load.
+2014-03-31 09:32:14.850 HelloCordova[33471:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html
+2014-03-31 09:35:40.228 HelloCordova[33792:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:35:40.234 HelloCordova[33792:70b] Unlimited access to network resources
+2014-03-31 09:35:40.254 HelloCordova[33792:70b] [CDVTimer][statusbar] 5.869985ms
+2014-03-31 09:35:40.255 HelloCordova[33792:70b] [CDVTimer][TotalPluginStartup] 6.254017ms
+2014-03-31 09:35:40.284 HelloCordova[33792:70b] Resetting plugins due to page load.
+2014-03-31 09:35:40.360 HelloCordova[33792:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/056FF4FA-2D1C-453C-BCFB-3AF9AD17B78A/HelloCordova.app/www/index.html
+2014-03-31 12:20:32.609 PayNearMe Mobile[37164:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:20:32.615 PayNearMe Mobile[37164:70b] Unlimited access to network resources
+2014-03-31 12:20:32.640 PayNearMe Mobile[37164:70b] [CDVTimer][statusbar] 10.276020ms
+2014-03-31 12:20:32.641 PayNearMe Mobile[37164:70b] [CDVTimer][TotalPluginStartup] 10.650992ms
+2014-03-31 12:20:32.757 PayNearMe Mobile[37164:70b] Resetting plugins due to page load.
+2014-03-31 12:20:32.999 PayNearMe Mobile[37164:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:21:09.609 PayNearMe Mobile[37363:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:21:09.615 PayNearMe Mobile[37363:70b] Unlimited access to network resources
+2014-03-31 12:21:09.636 PayNearMe Mobile[37363:70b] [CDVTimer][statusbar] 7.170022ms
+2014-03-31 12:21:09.637 PayNearMe Mobile[37363:70b] [CDVTimer][TotalPluginStartup] 7.548988ms
+2014-03-31 12:21:09.701 PayNearMe Mobile[37363:70b] Resetting plugins due to page load.
+2014-03-31 12:21:09.882 PayNearMe Mobile[37363:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:21:33.983 PayNearMe Mobile[37363:70b] THREAD WARNING: ['InAppBrowser'] took '34.213135' ms. Plugin should use a background thread.
+2014-03-31 12:30:26.297 PayNearMe Mobile[37707:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:30:26.302 PayNearMe Mobile[37707:70b] Unlimited access to network resources
+2014-03-31 12:30:26.324 PayNearMe Mobile[37707:70b] [CDVTimer][statusbar] 7.580996ms
+2014-03-31 12:30:26.325 PayNearMe Mobile[37707:70b] [CDVTimer][TotalPluginStartup] 7.982016ms
+2014-03-31 12:30:26.354 PayNearMe Mobile[37707:70b] Resetting plugins due to page load.
+2014-03-31 12:30:26.530 PayNearMe Mobile[37707:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:33:48.906 PayNearMe Mobile[38035:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:33:48.912 PayNearMe Mobile[38035:70b] Unlimited access to network resources
+2014-03-31 12:33:48.935 PayNearMe Mobile[38035:70b] [CDVTimer][statusbar] 7.072031ms
+2014-03-31 12:33:48.936 PayNearMe Mobile[38035:70b] [CDVTimer][TotalPluginStartup] 7.423997ms
+2014-03-31 12:33:48.964 PayNearMe Mobile[38035:70b] Resetting plugins due to page load.
+2014-03-31 12:33:49.137 PayNearMe Mobile[38035:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:37:24.416 PayNearMe Mobile[38355:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:37:24.421 PayNearMe Mobile[38355:70b] Unlimited access to network resources
+2014-03-31 12:37:24.443 PayNearMe Mobile[38355:70b] [CDVTimer][statusbar] 7.169008ms
+2014-03-31 12:37:24.444 PayNearMe Mobile[38355:70b] [CDVTimer][TotalPluginStartup] 7.560015ms
+2014-03-31 12:37:24.473 PayNearMe Mobile[38355:70b] Resetting plugins due to page load.
+2014-03-31 12:37:24.656 PayNearMe Mobile[38355:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:41:45.816 PayNearMe Mobile[38841:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:41:45.822 PayNearMe Mobile[38841:70b] Unlimited access to network resources
+2014-03-31 12:41:45.844 PayNearMe Mobile[38841:70b] [CDVTimer][statusbar] 7.345974ms
+2014-03-31 12:41:45.844 PayNearMe Mobile[38841:70b] [CDVTimer][TotalPluginStartup] 7.703960ms
+2014-03-31 12:41:45.873 PayNearMe Mobile[38841:70b] Resetting plugins due to page load.
+2014-03-31 12:41:46.057 PayNearMe Mobile[38841:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:43:56.805 PayNearMe Mobile[39161:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:43:56.811 PayNearMe Mobile[39161:70b] Unlimited access to network resources
+2014-03-31 12:43:56.833 PayNearMe Mobile[39161:70b] [CDVTimer][statusbar] 7.292986ms
+2014-03-31 12:43:56.834 PayNearMe Mobile[39161:70b] [CDVTimer][TotalPluginStartup] 7.645011ms
+2014-03-31 12:43:56.863 PayNearMe Mobile[39161:70b] Resetting plugins due to page load.
+2014-03-31 12:43:57.050 PayNearMe Mobile[39161:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:45:02.781 PayNearMe Mobile[39470:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:45:02.787 PayNearMe Mobile[39470:70b] Unlimited access to network resources
+2014-03-31 12:45:02.811 PayNearMe Mobile[39470:70b] [CDVTimer][statusbar] 7.560015ms
+2014-03-31 12:45:02.811 PayNearMe Mobile[39470:70b] [CDVTimer][TotalPluginStartup] 7.927001ms
+2014-03-31 12:45:02.839 PayNearMe Mobile[39470:70b] Resetting plugins due to page load.
+2014-03-31 12:45:03.013 PayNearMe Mobile[39470:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:46:17.026 PayNearMe Mobile[39779:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:46:17.031 PayNearMe Mobile[39779:70b] Unlimited access to network resources
+2014-03-31 12:46:17.053 PayNearMe Mobile[39779:70b] [CDVTimer][statusbar] 7.358015ms
+2014-03-31 12:46:17.053 PayNearMe Mobile[39779:70b] [CDVTimer][TotalPluginStartup] 7.719994ms
+2014-03-31 12:46:17.084 PayNearMe Mobile[39779:70b] Resetting plugins due to page load.
+2014-03-31 12:46:17.255 PayNearMe Mobile[39779:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:50:10.380 PayNearMe Mobile[40096:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:50:10.386 PayNearMe Mobile[40096:70b] Unlimited access to network resources
+2014-03-31 12:50:10.408 PayNearMe Mobile[40096:70b] [CDVTimer][statusbar] 7.642984ms
+2014-03-31 12:50:10.409 PayNearMe Mobile[40096:70b] [CDVTimer][TotalPluginStartup] 8.075953ms
+2014-03-31 12:50:10.439 PayNearMe Mobile[40096:70b] Resetting plugins due to page load.
+2014-03-31 12:50:10.615 PayNearMe Mobile[40096:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:53:57.152 PayNearMe Mobile[40418:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:53:57.157 PayNearMe Mobile[40418:70b] Unlimited access to network resources
+2014-03-31 12:53:57.179 PayNearMe Mobile[40418:70b] [CDVTimer][statusbar] 7.206976ms
+2014-03-31 12:53:57.180 PayNearMe Mobile[40418:70b] [CDVTimer][TotalPluginStartup] 7.560968ms
+2014-03-31 12:53:57.207 PayNearMe Mobile[40418:70b] Resetting plugins due to page load.
+2014-03-31 12:53:57.385 PayNearMe Mobile[40418:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:55:56.848 PayNearMe Mobile[40734:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:55:56.854 PayNearMe Mobile[40734:70b] Unlimited access to network resources
+2014-03-31 12:55:56.878 PayNearMe Mobile[40734:70b] [CDVTimer][statusbar] 9.271979ms
+2014-03-31 12:55:56.879 PayNearMe Mobile[40734:70b] [CDVTimer][TotalPluginStartup] 9.760976ms
+2014-03-31 12:55:56.907 PayNearMe Mobile[40734:70b] Resetting plugins due to page load.
+2014-03-31 12:55:57.113 PayNearMe Mobile[40734:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:57:11.744 PayNearMe Mobile[41042:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:57:11.750 PayNearMe Mobile[41042:70b] Unlimited access to network resources
+2014-03-31 12:57:11.772 PayNearMe Mobile[41042:70b] [CDVTimer][statusbar] 7.284999ms
+2014-03-31 12:57:11.772 PayNearMe Mobile[41042:70b] [CDVTimer][TotalPluginStartup] 7.638991ms
+2014-03-31 12:57:11.802 PayNearMe Mobile[41042:70b] Resetting plugins due to page load.
+2014-03-31 12:57:11.981 PayNearMe Mobile[41042:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 12:59:49.355 PayNearMe Mobile[41361:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 12:59:49.361 PayNearMe Mobile[41361:70b] Unlimited access to network resources
+2014-03-31 12:59:49.382 PayNearMe Mobile[41361:70b] [CDVTimer][statusbar] 7.063985ms
+2014-03-31 12:59:49.382 PayNearMe Mobile[41361:70b] [CDVTimer][TotalPluginStartup] 7.413983ms
+2014-03-31 12:59:49.410 PayNearMe Mobile[41361:70b] Resetting plugins due to page load.
+2014-03-31 12:59:49.586 PayNearMe Mobile[41361:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 13:00:44.339 PayNearMe Mobile[41671:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 13:00:44.345 PayNearMe Mobile[41671:70b] Unlimited access to network resources
+2014-03-31 13:00:44.367 PayNearMe Mobile[41671:70b] [CDVTimer][statusbar] 7.723033ms
+2014-03-31 13:00:44.367 PayNearMe Mobile[41671:70b] [CDVTimer][TotalPluginStartup] 8.077979ms
+2014-03-31 13:00:44.399 PayNearMe Mobile[41671:70b] Resetting plugins due to page load.
+2014-03-31 13:00:44.587 PayNearMe Mobile[41671:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-03-31 13:15:46.662 PayNearMe Mobile[41671:70b] THREAD WARNING: ['InAppBrowser'] took '16.334961' ms. Plugin should use a background thread.
+2014-03-31 13:23:12.146 PayNearMe Mobile[42086:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 13:23:12.152 PayNearMe Mobile[42086:70b] Unlimited access to network resources
+2014-03-31 13:23:12.176 PayNearMe Mobile[42086:70b] [CDVTimer][statusbar] 7.692039ms
+2014-03-31 13:23:12.176 PayNearMe Mobile[42086:70b] [CDVTimer][TotalPluginStartup] 8.045018ms
+2014-03-31 13:23:12.229 PayNearMe Mobile[42086:70b] Resetting plugins due to page load.
+2014-03-31 13:23:12.405 PayNearMe Mobile[42086:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-01 06:14:55.983 PayNearMe Mobile[1540:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-01 06:14:56.002 PayNearMe Mobile[1540:70b] Unlimited access to network resources
+2014-04-01 06:14:56.219 PayNearMe Mobile[1540:70b] [CDVTimer][statusbar] 46.199024ms
+2014-04-01 06:14:56.219 PayNearMe Mobile[1540:70b] [CDVTimer][TotalPluginStartup] 46.558976ms
+2014-04-01 06:14:56.298 PayNearMe Mobile[1540:70b] Resetting plugins due to page load.
+2014-04-01 06:14:56.588 PayNearMe Mobile[1540:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-01 06:24:31.803 PayNearMe Mobile[1258:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-01 06:24:31.828 PayNearMe Mobile[1258:70b] Unlimited access to network resources
+2014-04-01 06:24:32.093 PayNearMe Mobile[1258:70b] [CDVTimer][statusbar] 59.247971ms
+2014-04-01 06:24:32.093 PayNearMe Mobile[1258:70b] [CDVTimer][TotalPluginStartup] 59.691012ms
+2014-04-01 06:24:32.256 PayNearMe Mobile[1258:70b] Resetting plugins due to page load.
+2014-04-01 06:24:32.760 PayNearMe Mobile[1258:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-02 13:56:00.800 PayNearMe Mobile[13803:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-02 13:56:00.831 PayNearMe Mobile[13803:70b] Unlimited access to network resources
+2014-04-02 13:56:01.154 PayNearMe Mobile[13803:70b] [CDVTimer][statusbar] 64.616978ms
+2014-04-02 13:56:01.154 PayNearMe Mobile[13803:70b] [CDVTimer][TotalPluginStartup] 64.990997ms
+2014-04-02 13:56:01.224 PayNearMe Mobile[13803:70b] Resetting plugins due to page load.
+2014-04-02 13:56:01.523 PayNearMe Mobile[13803:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-02 13:56:11.942 PayNearMe Mobile[13803:70b] ==== q: char
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.943 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.944 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:11.945 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.886 PayNearMe Mobile[13803:70b] ==== q: charlesto
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.887 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.888 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:12.889 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.075 PayNearMe Mobile[13803:70b] ==== q: charleston
+2014-04-02 13:56:14.075 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.075 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.075 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.075 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.076 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.077 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.078 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.078 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== q: Charleston
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.725 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.726 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.727 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
