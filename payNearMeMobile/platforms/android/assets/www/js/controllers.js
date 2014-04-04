@@ -3,17 +3,44 @@ angular.module('starter.controllers', [])
 .controller('AppCtrl', function($scope) {
 })
 
-.controller('PaymentsCtrl', ['$scope', 'Phone',
-  function($scope, Phone) {
-    $scope.payments = [
-      { title: 'Reggae', id: 1 },
-      { title: 'Chill', id: 2 },
-      { title: 'Dubstep', id: 3 },
-      { title: 'Indie', id: 4 },
-      { title: 'Rap', id: 5 },
-      { title: 'Cowbell', id: 6 }
-    ];
-}])
+.controller('DashboardCtrl', function($scope) {
+  $scope.items = [
+    { title: 'Payments', href: 'payments', item_title: 'Recent Payments',
+      item_content: [
+        {label: 'Cute Puppies', content_id: 1},
+        {label: 'Greyhound', content_id: 2}
+      ]
+    },
+    { title: 'Payment Locations', href: 'payment_locations', item_title: '', item_content: [] },
+    { title: 'Payment Reminders', href: 'payment_reminders', item_title: '', item_content: []},
+    { title: 'Featured', href: 'featured', item_title: '', item_content: []}
+  ];
+})
+
+.controller('PaymentsCtrl', function($scope, SiteSearch, PaycodeSearch) {
+
+  var doBillerSearch = ionic.debounce(function(biller_query) {
+    SiteSearch.biller_search(biller_query).then(function(resp) {
+      $scope.sites = resp.result.payees.site;
+    });
+  }, 500);
+
+  var doPaycodeSearch = ionic.debounce(function(paycode_query) {
+    PaycodeSearch.paycode_search(paycode_query).then(function(resp) {
+      $scope.paycode = resp.result.order;
+    });
+  }, 500);
+
+
+  $scope.biller_search = function() {
+    doBillerSearch($scope.biller_query);
+  }
+
+  $scope.paycode_search = function() {
+    doPaycodeSearch($scope.paycode_query);
+  }
+
+})
 
 .controller('PaymentRemindersCtrl', function($scope) {
   $scope.payment_reminders = [

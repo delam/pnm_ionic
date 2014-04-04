@@ -6326,6 +6326,9 @@ a.button {
 .platform-android.platform-cordova .title {
   line-height: 48px; }
 
+.container {
+  margin-top: 40px; }
+
 .nav-bar .title {
   background: url(/www/img/logo.png) no-repeat center;
   color: transparent !important; }
@@ -6352,38 +6355,12 @@ a.button {
   align-items: baseline;
   margin-top: 20px; }
 
-#search-input {
+#biller-search-input {
   text-align: center; }
 
-#photos {
-  margin: auto; }
-
-.photo {
-  width: 100px;
-  height: 100px;
-  margin: 1px;
-  float: left;
-  overflow: hidden; }
-
-.photo img {
-  min-width: 100%;
-  min-height: 100%;
-  max-width: 150%;
-  max-height: 150%; }
-
-#search-bar {
-  background: none;
-  position: absolute;
-  width: 100%;
-  top: 44px;
-  height: 40px;
-  z-index: 3; }
-
-#search-bar .item {
+#biller-search-bar .item {
   background: none;
   border: none; }
 
-#content {
-  top: 44px;
-  padding-top: 45px;
-  padding-bottom: 20px; }
+#payments .scroll-content {
+  position: relative; }

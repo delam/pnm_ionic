@@ -6326,6 +6326,9 @@ a.button {
 .platform-android.platform-cordova .title {
   line-height: 48px; }
 
+.container {
+  margin-top: 40px; }
+
 .nav-bar .title {
   background: url(/www/img/logo.png) no-repeat center;
   color: transparent !important; }
@@ -6347,3 +6350,17 @@ a.button {
   #pnm_header .ion-home {
     float: left; }
 
+
+.list .has_children a.item-content:after {
+  align-items: baseline;
+  margin-top: 20px; }
+
+#biller-search-input {
+  text-align: center; }
+
+#biller-search-bar .item {
+  background: none;
+  border: none; }
+
+#payments .scroll-content {
+  position: relative; }

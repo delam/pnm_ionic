@@ -1,32 +1,15 @@
 angular.module('starter.services', ['ngResource'])
 
-//phonecatServices.factory('Phone', ['$resource',
-//  function($resource){
-//    return $resource('phones/:phoneId.json', {}, {
-//      query: {method:'GET', params:{phoneId:'phones'}, isArray:true}
-//    });
-//  }]);
-
-//pnmServices.factory('Phone', ['$resource',
-//  function($resource){
-//    return $resource('http://localhost:3000/api/3.0/sites/:phoneId?callback=JSON_CALLBACK', {}, {
-//      query: {method:'JSONP', params:{phoneId:''}, isArray:true},
-//      get: {method:'JSONP', params:{phoneId:''}, isArray:true}
-//    });
-//}]);
-
-
-
-.factory('Flickr', function($resource, $q) {
-  var photosPublic = $resource('http://api.flickr.com/services/feeds/photos_public.gne',
-      { format: 'json', jsoncallback: 'JSON_CALLBACK' },
+.factory('SiteSearch', function($resource, $q) {
+  var sites = $resource('http://dev.paynearme.com:3000/api/get_payees.json?&version=1.8&',
+      { format: 'json', callback: 'JSON_CALLBACK' },
       { 'load': { 'method': 'JSONP' } });
 
   return {
-    search: function(query) {
+    biller_search: function(biller_query) {
       var q = $q.defer();
-      photosPublic.load({
-        tags: query
+      sites.load({
+        payee_query: biller_query
       }, function(resp) {
         q.resolve(resp);
       }, function(err) {
@@ -38,49 +21,64 @@ angular.module('starter.services', ['ngResource'])
   }
 })
 
-.controller('FlickrCtrl', function($scope, Flickr) {
 
-  var doSearch = ionic.debounce(function(query) {
-    Flickr.search(query).then(function(resp) {
-      $scope.photos = resp;
-      console.log('==== q: '+query);
-    });
-  }, 500);
+.factory('PaycodeSearch', function($resource, $q) {
+  var paycodes = $resource('http://dev.paynearme.com:3000/api/view_payment.json?uid=1a&version=2.0&',
+      { format: 'json', callback: 'JSON_CALLBACK' },
+      { 'load': { 'method': 'JSONP' } });
 
-  $scope.search = function() {
-    doSearch($scope.query);
-  }
-
-})
-
-.directive('pushSearch', function() {
   return {
-    restrict: 'A',
-    link: function($scope, $element, $attr) {
-      var amt, st, header;
+    paycode_search: function(paycode_query) {
+      var q = $q.defer();
+      paycodes.load({
+        pnm_order_crid: paycode_query
+      }, function(resp) {
+        q.resolve(resp);
+      }, function(err) {
+        q.reject(err);
+      })
 
-      $element.bind('scroll', function(e) {
-        if(!header) {
-          header = document.getElementById('search-bar');
-        }
-        st = e.detail.scrollTop;
-        if(st < 0) {
-          header.style.webkitTransform = 'translate3d(0, 0px, 0)';
-        } else {
-          header.style.webkitTransform = 'translate3d(0, ' + -st + 'px, 0)';
-        }
-      });
+      return q.promise;
     }
   }
 })
 
-.directive('photo', function($window) {
-  return {
-    restrict: 'C',
-    link: function($scope, $element, $attr) {
-      var size = ($window.outerWidth / 3) - 2;
-      $element.css('width', size + 'px');
-      console.log('==== size: '+size);
+.factory('GetUU', function() {
+  var uploadurl = "http://localhost/upl";
+  return  {
+    query: function() {
+      return uploadurl;
     }
   }
-});
+})
+
+//.directive('pushSearch', function() {
+//  return {
+//    restrict: 'A',
+//    link: function($scope, $element, $attr) {
+//      var amt, st, header;
+//
+//      $element.bind('scroll', function(e) {
+//        if(!header) {
+//          header = document.getElementById('biller-search-bar');
+//        }
+//        st = e.detail.scrollTop;
+////        if(st < 0) {
+////          header.style.webkitTransform = 'translate3d(0, 0px, 0)';
+////        } else {
+////          header.style.webkitTransform = 'translate3d(0, ' + -st + 'px, 0)';
+////        }
+//      });
+//    }
+//  }
+//})
+//
+//.directive('site', function($window) {
+//  return {
+//    restrict: 'C',
+//    link: function($scope, $element, $attr) {
+//      //var size = ($window.outerWidth / 3) - 2;
+//      //$element.css('width', size + 'px');
+//    }
+//  }
+//});

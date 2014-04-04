@@ -1,0 +1,30 @@
+<ion-view title="Camera">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+        <div id="pnm_header">
+            <button class="button button-icon icon ion-home" onclick="window.location.href = '#/app/dashboard'"></button>
+            <h1>Camera</h1>
+        </div>
+        <content has-header="true" has-tabs="true" scroll="true">
+            <div class="list">
+                <form name="myForm">
+                    <item class="item item-icon-left"><i class="icon ion-chatbubble-working"></i>
+                        <label class="item item-input">
+                            <textarea ng-model="obj.text" name="posttext" rows="4"></textarea>
+                        </label>
+                    </item>
+                    <img src="{{mypicture}}" width="320" />
+                    <div class="item">
+                        <button class="button button-block button-positive icon-left ion-ios7-camera" ng-click="takePicture()">Camera</button>
+                    </div>
+                    <div class="padding">
+                        <button class="button button-block button-positive icon-right ion-chevron-right" ng-disabled="!imp.text" ng-click="update(obj)">Upload</button>
+                    </div>
+                </form>
+            </div>
+        </content>
+
+    </ion-content>
+</ion-view>

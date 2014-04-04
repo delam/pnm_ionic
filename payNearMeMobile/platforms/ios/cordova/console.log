@@ -388,3 +388,281 @@
 2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
 2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
 2014-04-02 13:56:14.728 PayNearMe Mobile[13803:70b] ==== size: 104.66666666666667
+2014-04-03 10:02:36.614 PayNearMe Mobile[17911:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 10:02:36.620 PayNearMe Mobile[17911:70b] Unlimited access to network resources
+2014-04-03 10:02:36.644 PayNearMe Mobile[17911:70b] [CDVTimer][statusbar] 7.740021ms
+2014-04-03 10:02:36.645 PayNearMe Mobile[17911:70b] [CDVTimer][TotalPluginStartup] 8.194983ms
+2014-04-03 10:02:36.718 PayNearMe Mobile[17911:70b] Resetting plugins due to page load.
+2014-04-03 10:02:36.945 PayNearMe Mobile[17911:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:17:55.513 PayNearMe Mobile[31979:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:17:55.519 PayNearMe Mobile[31979:70b] Unlimited access to network resources
+2014-04-04 05:17:55.558 PayNearMe Mobile[31979:70b] [CDVTimer][statusbar] 19.272983ms
+2014-04-04 05:17:55.558 PayNearMe Mobile[31979:70b] [CDVTimer][TotalPluginStartup] 19.638002ms
+2014-04-04 05:17:55.688 PayNearMe Mobile[31979:70b] Resetting plugins due to page load.
+2014-04-04 05:17:55.979 PayNearMe Mobile[31979:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:19:36.614 PayNearMe Mobile[32293:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:19:36.619 PayNearMe Mobile[32293:70b] Unlimited access to network resources
+2014-04-04 05:19:36.640 PayNearMe Mobile[32293:70b] [CDVTimer][statusbar] 7.055998ms
+2014-04-04 05:19:36.641 PayNearMe Mobile[32293:70b] [CDVTimer][TotalPluginStartup] 7.412016ms
+2014-04-04 05:19:36.669 PayNearMe Mobile[32293:70b] Resetting plugins due to page load.
+2014-04-04 05:19:36.859 PayNearMe Mobile[32293:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:21:01.058 PayNearMe Mobile[32465:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:21:01.064 PayNearMe Mobile[32465:70b] Unlimited access to network resources
+2014-04-04 05:21:01.087 PayNearMe Mobile[32465:70b] [CDVTimer][statusbar] 7.614970ms
+2014-04-04 05:21:01.087 PayNearMe Mobile[32465:70b] [CDVTimer][TotalPluginStartup] 8.046031ms
+2014-04-04 05:21:01.136 PayNearMe Mobile[32465:70b] Resetting plugins due to page load.
+2014-04-04 05:21:01.342 PayNearMe Mobile[32465:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:24:57.194 PayNearMe Mobile[32783:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:24:57.200 PayNearMe Mobile[32783:70b] Unlimited access to network resources
+2014-04-04 05:24:57.222 PayNearMe Mobile[32783:70b] [CDVTimer][statusbar] 7.640004ms
+2014-04-04 05:24:57.222 PayNearMe Mobile[32783:70b] [CDVTimer][TotalPluginStartup] 7.997990ms
+2014-04-04 05:24:57.251 PayNearMe Mobile[32783:70b] Resetting plugins due to page load.
+2014-04-04 05:24:57.451 PayNearMe Mobile[32783:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:28:11.929 PayNearMe Mobile[33099:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:28:11.935 PayNearMe Mobile[33099:70b] Unlimited access to network resources
+2014-04-04 05:28:11.959 PayNearMe Mobile[33099:70b] [CDVTimer][statusbar] 8.365989ms
+2014-04-04 05:28:11.959 PayNearMe Mobile[33099:70b] [CDVTimer][TotalPluginStartup] 8.767009ms
+2014-04-04 05:28:11.990 PayNearMe Mobile[33099:70b] Resetting plugins due to page load.
+2014-04-04 05:28:12.204 PayNearMe Mobile[33099:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:31:59.977 PayNearMe Mobile[33419:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:31:59.983 PayNearMe Mobile[33419:70b] Unlimited access to network resources
+2014-04-04 05:32:00.005 PayNearMe Mobile[33419:70b] [CDVTimer][statusbar] 6.344020ms
+2014-04-04 05:32:00.006 PayNearMe Mobile[33419:70b] [CDVTimer][TotalPluginStartup] 6.703973ms
+2014-04-04 05:32:00.035 PayNearMe Mobile[33419:70b] Resetting plugins due to page load.
+2014-04-04 05:32:00.225 PayNearMe Mobile[33419:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:34:09.791 PayNearMe Mobile[33733:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:34:09.797 PayNearMe Mobile[33733:70b] Unlimited access to network resources
+2014-04-04 05:34:09.818 PayNearMe Mobile[33733:70b] [CDVTimer][statusbar] 7.517993ms
+2014-04-04 05:34:09.819 PayNearMe Mobile[33733:70b] [CDVTimer][TotalPluginStartup] 7.878006ms
+2014-04-04 05:34:09.848 PayNearMe Mobile[33733:70b] Resetting plugins due to page load.
+2014-04-04 05:34:10.100 PayNearMe Mobile[33733:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:35:29.851 PayNearMe Mobile[34050:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:35:29.857 PayNearMe Mobile[34050:70b] Unlimited access to network resources
+2014-04-04 05:35:29.877 PayNearMe Mobile[34050:70b] [CDVTimer][statusbar] 5.863011ms
+2014-04-04 05:35:29.877 PayNearMe Mobile[34050:70b] [CDVTimer][TotalPluginStartup] 6.220996ms
+2014-04-04 05:35:29.905 PayNearMe Mobile[34050:70b] Resetting plugins due to page load.
+2014-04-04 05:35:30.158 PayNearMe Mobile[34050:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:36:21.546 PayNearMe Mobile[34363:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:36:21.551 PayNearMe Mobile[34363:70b] Unlimited access to network resources
+2014-04-04 05:36:21.572 PayNearMe Mobile[34363:70b] [CDVTimer][statusbar] 5.876005ms
+2014-04-04 05:36:21.572 PayNearMe Mobile[34363:70b] [CDVTimer][TotalPluginStartup] 6.228030ms
+2014-04-04 05:36:21.601 PayNearMe Mobile[34363:70b] Resetting plugins due to page load.
+2014-04-04 05:36:21.800 PayNearMe Mobile[34363:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:38:36.681 PayNearMe Mobile[34674:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:38:36.687 PayNearMe Mobile[34674:70b] Unlimited access to network resources
+2014-04-04 05:38:36.710 PayNearMe Mobile[34674:70b] [CDVTimer][statusbar] 7.232010ms
+2014-04-04 05:38:36.711 PayNearMe Mobile[34674:70b] [CDVTimer][TotalPluginStartup] 7.579982ms
+2014-04-04 05:38:36.739 PayNearMe Mobile[34674:70b] Resetting plugins due to page load.
+2014-04-04 05:38:36.992 PayNearMe Mobile[34674:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:43:53.725 PayNearMe Mobile[34990:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:43:53.731 PayNearMe Mobile[34990:70b] Unlimited access to network resources
+2014-04-04 05:43:53.753 PayNearMe Mobile[34990:70b] [CDVTimer][statusbar] 7.597029ms
+2014-04-04 05:43:53.753 PayNearMe Mobile[34990:70b] [CDVTimer][TotalPluginStartup] 7.952988ms
+2014-04-04 05:43:53.783 PayNearMe Mobile[34990:70b] Resetting plugins due to page load.
+2014-04-04 05:43:53.940 PayNearMe Mobile[34990:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html
+2014-04-04 05:47:56.388 PayNearMe Mobile[35309:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:47:56.393 PayNearMe Mobile[35309:70b] Unlimited access to network resources
+2014-04-04 05:47:56.414 PayNearMe Mobile[35309:70b] [CDVTimer][statusbar] 5.986989ms
+2014-04-04 05:47:56.414 PayNearMe Mobile[35309:70b] [CDVTimer][TotalPluginStartup] 6.375968ms
+2014-04-04 05:47:56.451 PayNearMe Mobile[35309:70b] Resetting plugins due to page load.
+2014-04-04 05:47:56.655 PayNearMe Mobile[35309:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:49:19.778 PayNearMe Mobile[35623:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:49:19.784 PayNearMe Mobile[35623:70b] Unlimited access to network resources
+2014-04-04 05:49:19.807 PayNearMe Mobile[35623:70b] [CDVTimer][statusbar] 9.529054ms
+2014-04-04 05:49:19.808 PayNearMe Mobile[35623:70b] [CDVTimer][TotalPluginStartup] 9.992003ms
+2014-04-04 05:49:19.838 PayNearMe Mobile[35623:70b] Resetting plugins due to page load.
+2014-04-04 05:49:20.107 PayNearMe Mobile[35623:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 05:58:06.377 PayNearMe Mobile[35953:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 05:58:06.383 PayNearMe Mobile[35953:70b] Unlimited access to network resources
+2014-04-04 05:58:06.404 PayNearMe Mobile[35953:70b] [CDVTimer][statusbar] 7.148981ms
+2014-04-04 05:58:06.404 PayNearMe Mobile[35953:70b] [CDVTimer][TotalPluginStartup] 7.503986ms
+2014-04-04 05:58:06.432 PayNearMe Mobile[35953:70b] Resetting plugins due to page load.
+2014-04-04 05:58:06.521 PayNearMe Mobile[35953:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html
+2014-04-04 06:05:38.669 PayNearMe Mobile[36320:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:05:38.675 PayNearMe Mobile[36320:70b] Unlimited access to network resources
+2014-04-04 06:05:38.695 PayNearMe Mobile[36320:70b] [CDVTimer][statusbar] 5.842984ms
+2014-04-04 06:05:38.696 PayNearMe Mobile[36320:70b] [CDVTimer][TotalPluginStartup] 6.245017ms
+2014-04-04 06:05:38.724 PayNearMe Mobile[36320:70b] Resetting plugins due to page load.
+2014-04-04 06:05:38.805 PayNearMe Mobile[36320:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html
+2014-04-04 06:15:02.366 PayNearMe Mobile[36644:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:15:02.372 PayNearMe Mobile[36644:70b] Unlimited access to network resources
+2014-04-04 06:15:02.394 PayNearMe Mobile[36644:70b] [CDVTimer][statusbar] 6.352007ms
+2014-04-04 06:15:02.394 PayNearMe Mobile[36644:70b] [CDVTimer][TotalPluginStartup] 6.780028ms
+2014-04-04 06:15:02.424 PayNearMe Mobile[36644:70b] Resetting plugins due to page load.
+2014-04-04 06:15:02.507 PayNearMe Mobile[36644:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html
+2014-04-04 06:16:54.650 PayNearMe Mobile[36964:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:16:54.656 PayNearMe Mobile[36964:70b] Unlimited access to network resources
+2014-04-04 06:16:54.677 PayNearMe Mobile[36964:70b] [CDVTimer][statusbar] 6.147981ms
+2014-04-04 06:16:54.677 PayNearMe Mobile[36964:70b] [CDVTimer][TotalPluginStartup] 6.530046ms
+2014-04-04 06:16:54.710 PayNearMe Mobile[36964:70b] Resetting plugins due to page load.
+2014-04-04 06:16:54.905 PayNearMe Mobile[36964:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:19:30.897 PayNearMe Mobile[37283:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:19:30.902 PayNearMe Mobile[37283:70b] Unlimited access to network resources
+2014-04-04 06:19:30.925 PayNearMe Mobile[37283:70b] [CDVTimer][statusbar] 7.424951ms
+2014-04-04 06:19:30.925 PayNearMe Mobile[37283:70b] [CDVTimer][TotalPluginStartup] 7.791996ms
+2014-04-04 06:19:30.954 PayNearMe Mobile[37283:70b] Resetting plugins due to page load.
+2014-04-04 06:19:31.154 PayNearMe Mobile[37283:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:20:47.661 PayNearMe Mobile[37599:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:20:47.666 PayNearMe Mobile[37599:70b] Unlimited access to network resources
+2014-04-04 06:20:47.693 PayNearMe Mobile[37599:70b] [CDVTimer][statusbar] 11.430979ms
+2014-04-04 06:20:47.693 PayNearMe Mobile[37599:70b] [CDVTimer][TotalPluginStartup] 11.884034ms
+2014-04-04 06:20:47.727 PayNearMe Mobile[37599:70b] Resetting plugins due to page load.
+2014-04-04 06:20:47.949 PayNearMe Mobile[37599:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:25:16.109 PayNearMe Mobile[37919:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:25:16.115 PayNearMe Mobile[37919:70b] Unlimited access to network resources
+2014-04-04 06:25:16.137 PayNearMe Mobile[37919:70b] [CDVTimer][statusbar] 7.394016ms
+2014-04-04 06:25:16.138 PayNearMe Mobile[37919:70b] [CDVTimer][TotalPluginStartup] 7.746041ms
+2014-04-04 06:25:16.167 PayNearMe Mobile[37919:70b] Resetting plugins due to page load.
+2014-04-04 06:25:16.405 PayNearMe Mobile[37919:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:25:22.958 PayNearMe Mobile[37919:70b] ready get camera types
+2014-04-04 06:25:37.118 PayNearMe Mobile[37919:70b] got camera button click
+2014-04-04 06:25:42.943 PayNearMe Mobile[37919:70b] got camera button click
+2014-04-04 06:25:43.686 PayNearMe Mobile[37919:70b] got camera button click
+2014-04-04 06:25:44.551 PayNearMe Mobile[37919:70b] got camera button click
+2014-04-04 06:25:45.358 PayNearMe Mobile[37919:70b] got camera button click
+2014-04-04 06:26:52.812 PayNearMe Mobile[38235:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:26:52.818 PayNearMe Mobile[38235:70b] Unlimited access to network resources
+2014-04-04 06:26:52.840 PayNearMe Mobile[38235:70b] [CDVTimer][statusbar] 7.398963ms
+2014-04-04 06:26:52.841 PayNearMe Mobile[38235:70b] [CDVTimer][TotalPluginStartup] 7.742047ms
+2014-04-04 06:26:52.870 PayNearMe Mobile[38235:70b] Resetting plugins due to page load.
+2014-04-04 06:26:53.071 PayNearMe Mobile[38235:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:27:02.730 PayNearMe Mobile[38235:70b] ready get camera types
+2014-04-04 06:27:04.077 PayNearMe Mobile[38235:70b] got camera button click
+2014-04-04 06:27:04.078 PayNearMe Mobile[38235:70b] no camera
+2014-04-04 06:27:13.828 PayNearMe Mobile[38235:70b] got camera button click
+2014-04-04 06:27:13.828 PayNearMe Mobile[38235:70b] no camera
+2014-04-04 06:32:33.711 PayNearMe Mobile[38235:70b] got camera button click
+2014-04-04 06:32:33.711 PayNearMe Mobile[38235:70b] no camera
+2014-04-04 06:38:54.261 PayNearMe Mobile[38683:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:38:54.266 PayNearMe Mobile[38683:70b] Unlimited access to network resources
+2014-04-04 06:38:54.289 PayNearMe Mobile[38683:70b] [CDVTimer][statusbar] 7.790983ms
+2014-04-04 06:38:54.289 PayNearMe Mobile[38683:70b] [CDVTimer][TotalPluginStartup] 8.200049ms
+2014-04-04 06:38:54.331 PayNearMe Mobile[38683:70b] Resetting plugins due to page load.
+2014-04-04 06:38:54.549 PayNearMe Mobile[38683:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:39:01.243 PayNearMe Mobile[38683:70b] ready get camera types
+2014-04-04 06:39:02.441 PayNearMe Mobile[38683:70b] got camera button click
+2014-04-04 06:39:02.502 PayNearMe Mobile[38683:70b] THREAD WARNING: ['Camera'] took '59.895020' ms. Plugin should use a background thread.
+2014-04-04 06:39:07.483 PayNearMe Mobile[38683:70b] got camera error  no image selected
+2014-04-04 06:40:41.249 PayNearMe Mobile[39018:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:40:41.255 PayNearMe Mobile[39018:70b] Unlimited access to network resources
+2014-04-04 06:40:41.278 PayNearMe Mobile[39018:70b] [CDVTimer][statusbar] 7.804990ms
+2014-04-04 06:40:41.278 PayNearMe Mobile[39018:70b] [CDVTimer][TotalPluginStartup] 8.145034ms
+2014-04-04 06:40:41.309 PayNearMe Mobile[39018:70b] Resetting plugins due to page load.
+2014-04-04 06:40:41.517 PayNearMe Mobile[39018:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:40:49.001 PayNearMe Mobile[39018:70b] ready get camera types
+2014-04-04 06:41:11.829 PayNearMe Mobile[39345:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:41:11.835 PayNearMe Mobile[39345:70b] Unlimited access to network resources
+2014-04-04 06:41:11.864 PayNearMe Mobile[39345:70b] [CDVTimer][statusbar] 11.222005ms
+2014-04-04 06:41:11.864 PayNearMe Mobile[39345:70b] [CDVTimer][TotalPluginStartup] 11.752963ms
+2014-04-04 06:41:11.910 PayNearMe Mobile[39345:70b] Resetting plugins due to page load.
+2014-04-04 06:41:12.218 PayNearMe Mobile[39345:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:41:18.239 PayNearMe Mobile[39345:70b] ready get camera types
+2014-04-04 06:41:19.418 PayNearMe Mobile[39345:70b] got camera button click
+2014-04-04 06:41:19.459 PayNearMe Mobile[39345:70b] THREAD WARNING: ['Camera'] took '40.698975' ms. Plugin should use a background thread.
+2014-04-04 06:41:21.480 PayNearMe Mobile[39345:70b] got camera error  no image selected
+2014-04-04 06:41:22.865 PayNearMe Mobile[39345:70b] got camera button click
+2014-04-04 06:41:25.906 PayNearMe Mobile[39345:70b] got camera error  no image selected
+2014-04-04 06:44:01.958 PayNearMe Mobile[39345:70b] got camera button click
+2014-04-04 06:45:27.315 PayNearMe Mobile[39345:70b] got camera error  no image selected
+2014-04-04 06:45:28.724 PayNearMe Mobile[39345:70b] got camera button click
+2014-04-04 06:45:32.495 PayNearMe Mobile[39345:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_001.jpg
+2014-04-04 06:45:57.173 PayNearMe Mobile[39345:70b] got camera button click
+2014-04-04 06:45:58.955 PayNearMe Mobile[39345:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_002.jpg
+2014-04-04 06:49:05.991 PayNearMe Mobile[39684:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:49:05.997 PayNearMe Mobile[39684:70b] Unlimited access to network resources
+2014-04-04 06:49:06.019 PayNearMe Mobile[39684:70b] [CDVTimer][statusbar] 7.372975ms
+2014-04-04 06:49:06.019 PayNearMe Mobile[39684:70b] [CDVTimer][TotalPluginStartup] 7.762015ms
+2014-04-04 06:49:06.061 PayNearMe Mobile[39684:70b] Resetting plugins due to page load.
+2014-04-04 06:49:06.263 PayNearMe Mobile[39684:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:49:18.179 PayNearMe Mobile[39684:70b] ready get camera types
+2014-04-04 06:49:19.328 PayNearMe Mobile[39684:70b] got camera button click
+2014-04-04 06:49:19.368 PayNearMe Mobile[39684:70b] THREAD WARNING: ['Camera'] took '39.590088' ms. Plugin should use a background thread.
+2014-04-04 06:49:21.618 PayNearMe Mobile[39684:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_003.jpg
+2014-04-04 06:49:39.379 PayNearMe Mobile[39684:70b] got camera button click
+2014-04-04 06:49:40.879 PayNearMe Mobile[39684:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_004.jpg
+2014-04-04 06:50:21.677 PayNearMe Mobile[40013:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:50:21.683 PayNearMe Mobile[40013:70b] Unlimited access to network resources
+2014-04-04 06:50:21.705 PayNearMe Mobile[40013:70b] [CDVTimer][statusbar] 7.297993ms
+2014-04-04 06:50:21.705 PayNearMe Mobile[40013:70b] [CDVTimer][TotalPluginStartup] 7.667959ms
+2014-04-04 06:50:21.734 PayNearMe Mobile[40013:70b] Resetting plugins due to page load.
+2014-04-04 06:50:21.934 PayNearMe Mobile[40013:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:50:41.804 PayNearMe Mobile[40013:70b] ready get camera types
+2014-04-04 06:50:43.055 PayNearMe Mobile[40013:70b] got camera button click
+2014-04-04 06:50:43.095 PayNearMe Mobile[40013:70b] THREAD WARNING: ['Camera'] took '39.683105' ms. Plugin should use a background thread.
+2014-04-04 06:50:45.159 PayNearMe Mobile[40013:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_005.jpg
+2014-04-04 06:50:50.045 PayNearMe Mobile[40013:70b] got camera button click
+2014-04-04 06:50:52.011 PayNearMe Mobile[40013:70b] got camera error  no image selected
+2014-04-04 06:51:37.959 PayNearMe Mobile[40346:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:51:37.965 PayNearMe Mobile[40346:70b] Unlimited access to network resources
+2014-04-04 06:51:37.987 PayNearMe Mobile[40346:70b] [CDVTimer][statusbar] 7.282972ms
+2014-04-04 06:51:37.987 PayNearMe Mobile[40346:70b] [CDVTimer][TotalPluginStartup] 7.634044ms
+2014-04-04 06:51:38.015 PayNearMe Mobile[40346:70b] Resetting plugins due to page load.
+2014-04-04 06:51:38.219 PayNearMe Mobile[40346:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:51:48.267 PayNearMe Mobile[40346:70b] ready get camera types
+2014-04-04 06:51:49.332 PayNearMe Mobile[40346:70b] got camera button click
+2014-04-04 06:51:49.371 PayNearMe Mobile[40346:70b] THREAD WARNING: ['Camera'] took '39.196045' ms. Plugin should use a background thread.
+2014-04-04 06:51:51.790 PayNearMe Mobile[40346:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_006.jpg
+2014-04-04 06:52:04.719 PayNearMe Mobile[40346:70b] got camera button click
+2014-04-04 06:52:06.394 PayNearMe Mobile[40346:70b] got camera error  no image selected
+2014-04-04 06:52:30.879 PayNearMe Mobile[40672:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:52:30.887 PayNearMe Mobile[40672:70b] Unlimited access to network resources
+2014-04-04 06:52:30.919 PayNearMe Mobile[40672:70b] [CDVTimer][statusbar] 10.945976ms
+2014-04-04 06:52:30.920 PayNearMe Mobile[40672:70b] [CDVTimer][TotalPluginStartup] 11.471033ms
+2014-04-04 06:52:30.961 PayNearMe Mobile[40672:70b] Resetting plugins due to page load.
+2014-04-04 06:52:31.217 PayNearMe Mobile[40672:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:53:00.502 PayNearMe Mobile[40672:70b] ready get camera types
+2014-04-04 06:53:01.746 PayNearMe Mobile[40672:70b] got camera button click
+2014-04-04 06:53:01.786 PayNearMe Mobile[40672:70b] THREAD WARNING: ['Camera'] took '39.531006' ms. Plugin should use a background thread.
+2014-04-04 06:53:11.188 PayNearMe Mobile[40672:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_007.jpg
+2014-04-04 06:53:30.785 PayNearMe Mobile[40672:70b] got camera button click
+2014-04-04 06:53:32.155 PayNearMe Mobile[40672:70b] got camera error  no image selected
+2014-04-04 06:53:53.572 PayNearMe Mobile[41001:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:53:53.579 PayNearMe Mobile[41001:70b] Unlimited access to network resources
+2014-04-04 06:53:53.606 PayNearMe Mobile[41001:70b] [CDVTimer][statusbar] 7.699013ms
+2014-04-04 06:53:53.606 PayNearMe Mobile[41001:70b] [CDVTimer][TotalPluginStartup] 8.203030ms
+2014-04-04 06:53:53.640 PayNearMe Mobile[41001:70b] Resetting plugins due to page load.
+2014-04-04 06:53:53.854 PayNearMe Mobile[41001:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:54:10.528 PayNearMe Mobile[41001:70b] ready get camera types
+2014-04-04 06:54:11.755 PayNearMe Mobile[41001:70b] got camera button click
+2014-04-04 06:54:11.796 PayNearMe Mobile[41001:70b] THREAD WARNING: ['Camera'] took '41.180176' ms. Plugin should use a background thread.
+2014-04-04 06:54:14.031 PayNearMe Mobile[41001:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_008.jpg
+2014-04-04 06:54:17.476 PayNearMe Mobile[41001:70b] got camera button click
+2014-04-04 06:54:18.941 PayNearMe Mobile[41001:70b] got camera error  no image selected
+2014-04-04 06:54:38.747 PayNearMe Mobile[41001:70b] ready get camera types
+2014-04-04 06:56:06.076 PayNearMe Mobile[41339:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:56:06.081 PayNearMe Mobile[41339:70b] Unlimited access to network resources
+2014-04-04 06:56:06.103 PayNearMe Mobile[41339:70b] [CDVTimer][statusbar] 7.093012ms
+2014-04-04 06:56:06.103 PayNearMe Mobile[41339:70b] [CDVTimer][TotalPluginStartup] 7.439971ms
+2014-04-04 06:56:06.133 PayNearMe Mobile[41339:70b] Resetting plugins due to page load.
+2014-04-04 06:56:06.364 PayNearMe Mobile[41339:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:56:18.821 PayNearMe Mobile[41339:70b] ready get camera types
+2014-04-04 06:56:21.134 PayNearMe Mobile[41339:70b] got camera button click
+2014-04-04 06:56:21.173 PayNearMe Mobile[41339:70b] THREAD WARNING: ['Camera'] took '38.889893' ms. Plugin should use a background thread.
+2014-04-04 06:56:23.365 PayNearMe Mobile[41339:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_009.jpg
+2014-04-04 06:56:25.062 PayNearMe Mobile[41339:70b] got camera button click
+2014-04-04 06:56:26.139 PayNearMe Mobile[41339:70b] got camera error  no image selected
+2014-04-04 06:56:54.411 PayNearMe Mobile[41339:70b] ready get camera types
+2014-04-04 06:59:34.546 PayNearMe Mobile[41674:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 06:59:34.551 PayNearMe Mobile[41674:70b] Unlimited access to network resources
+2014-04-04 06:59:34.575 PayNearMe Mobile[41674:70b] [CDVTimer][statusbar] 7.681012ms
+2014-04-04 06:59:34.575 PayNearMe Mobile[41674:70b] [CDVTimer][TotalPluginStartup] 8.042991ms
+2014-04-04 06:59:34.604 PayNearMe Mobile[41674:70b] Resetting plugins due to page load.
+2014-04-04 06:59:34.815 PayNearMe Mobile[41674:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 06:59:54.892 PayNearMe Mobile[41674:70b] ready get camera types
+2014-04-04 07:00:03.862 PayNearMe Mobile[41674:70b] got camera button click
+2014-04-04 07:00:03.903 PayNearMe Mobile[41674:70b] THREAD WARNING: ['Camera'] took '40.482910' ms. Plugin should use a background thread.
+2014-04-04 07:00:06.261 PayNearMe Mobile[41674:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_010.jpg
+2014-04-04 07:00:09.601 PayNearMe Mobile[41674:70b] got camera button click
+2014-04-04 07:00:10.934 PayNearMe Mobile[41674:70b] got camera error  no image selected
+2014-04-04 07:00:49.016 PayNearMe Mobile[42004:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 07:00:49.022 PayNearMe Mobile[42004:70b] Unlimited access to network resources
+2014-04-04 07:00:49.044 PayNearMe Mobile[42004:70b] [CDVTimer][statusbar] 7.350981ms
+2014-04-04 07:00:49.044 PayNearMe Mobile[42004:70b] [CDVTimer][TotalPluginStartup] 7.736027ms
+2014-04-04 07:00:49.074 PayNearMe Mobile[42004:70b] Resetting plugins due to page load.
+2014-04-04 07:00:49.276 PayNearMe Mobile[42004:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-04 07:01:04.898 PayNearMe Mobile[42004:70b] ready get camera types
+2014-04-04 07:01:07.599 PayNearMe Mobile[42004:70b] got camera button click
+2014-04-04 07:01:07.639 PayNearMe Mobile[42004:70b] THREAD WARNING: ['Camera'] took '39.241943' ms. Plugin should use a background thread.
+2014-04-04 07:01:09.814 PayNearMe Mobile[42004:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_011.jpg
+2014-04-04 07:01:11.400 PayNearMe Mobile[42004:70b] got camera button click
+2014-04-04 07:01:12.593 PayNearMe Mobile[42004:70b] got camera error  no image selected

@@ -7,6 +7,27 @@
             <button nav-clear class="button button-icon icon ion-home" onclick="window.location.href = '#/app/dashboard'"></button>
             <h1>Dashboard</h1>
         </div>
+        <ion-list>
+            <ion-item ng-repeat="item in items" href="#/app/{{item.href}}" ng-class="{'has_children': item.item_title }">
+                <div>
+                    {{item.title}}
+                    <div ng-if="item.item_title != ''">
+                        <div style="font-size: 12px">
+                            <b>{{item.item_title}}</b>
+                            <div ng-if="item.item_title != ''">
+                                <div class="content_list">
+                                    <ion-list>
+                                        <ion-item ng-repeat="item_content in item.item_content" href="#/app/payments/{{item_content.id}}">
+                                            {{item_content.label}}
+                                        </ion-item>
+                                    </ion-list>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </ion-item>
+        </ion-list>
     </ion-content>
 </ion-view>
 

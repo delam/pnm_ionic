@@ -30,6 +30,9 @@
     <feature name="InAppBrowser">
         <param name="ios-package" value="CDVInAppBrowser" />
     </feature>
+    <feature name="Camera">
+        <param name="ios-package" value="CDVCamera" />
+    </feature>
     <name>PayNearMe Mobile</name>
     <description>
         An Ionic Framework and Cordova project.

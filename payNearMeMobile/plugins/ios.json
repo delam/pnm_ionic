@@ -11,11 +11,24 @@
                 "<feature name=\"StatusBar\"><param name=\"ios-package\" onload=\"true\" value=\"CDVStatusBar\" /></feature>": 1,
                 "<preference name=\"StatusBarOverlaysWebView\" value=\"true\" />": 1,
                 "<preference name=\"StatusBarBackgroundColor\" value=\"#000000\" />": 1,
-                "<feature name=\"InAppBrowser\"><param name=\"ios-package\" value=\"CDVInAppBrowser\" /></feature>": 1
+                "<feature name=\"InAppBrowser\"><param name=\"ios-package\" value=\"CDVInAppBrowser\" /></feature>": 1,
+                "<feature name=\"Camera\"><param name=\"ios-package\" value=\"CDVCamera\" /></feature>": 1
             }
         },
         "framework": {
             "CoreGraphics.framework": {
+                "false": 2
+            },
+            "ImageIO.framework": {
+                "true": 1
+            },
+            "CoreLocation.framework": {
+                "false": 1
+            },
+            "AssetsLibrary.framework": {
+                "false": 1
+            },
+            "MobileCoreServices.framework": {
                 "false": 1
             }
         }
@@ -32,6 +45,9 @@
         },
         "org.apache.cordova.inappbrowser": {
             "PACKAGE_NAME": "com.ionicframework.starter"
+        },
+        "org.apache.cordova.camera": {
+            "PACKAGE_NAME": "com.paynearme.mobile"
         }
     },
     "dependent_plugins": {}
