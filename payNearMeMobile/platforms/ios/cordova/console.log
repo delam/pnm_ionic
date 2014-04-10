@@ -722,3 +722,24 @@
 2014-04-04 13:05:46.553 PayNearMe Mobile[47479:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_014.jpg
 2014-04-04 13:05:49.374 PayNearMe Mobile[47479:70b] got camera button click
 2014-04-04 13:05:50.627 PayNearMe Mobile[47479:70b] got camera error  no image selected
+2014-04-10 08:50:09.921 PayNearMe Mobile[28670:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 08:50:09.940 PayNearMe Mobile[28670:70b] Unlimited access to network resources
+2014-04-10 08:50:10.146 PayNearMe Mobile[28670:70b] [CDVTimer][statusbar] 47.289014ms
+2014-04-10 08:50:10.147 PayNearMe Mobile[28670:70b] [CDVTimer][TotalPluginStartup] 47.697008ms
+2014-04-10 08:50:10.242 PayNearMe Mobile[28670:70b] Resetting plugins due to page load.
+2014-04-10 08:50:10.562 PayNearMe Mobile[28670:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+Terminating in response to SpringBoard's termination.
+2014-04-10 13:08:53.619 PayNearMe Mobile[29965:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 13:08:53.629 PayNearMe Mobile[29965:70b] Unlimited access to network resources
+2014-04-10 13:08:53.664 PayNearMe Mobile[29965:70b] [CDVTimer][statusbar] 11.460006ms
+2014-04-10 13:08:53.665 PayNearMe Mobile[29965:70b] [CDVTimer][TotalPluginStartup] 11.968970ms
+2014-04-10 13:08:53.794 PayNearMe Mobile[29965:70b] Resetting plugins due to page load.
+2014-04-10 13:08:54.180 PayNearMe Mobile[29965:70b] Finished load of: file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/PayNearMe%20Mobile.app/www/index.html#/app/dashboard
+2014-04-10 13:16:18.174 PayNearMe Mobile[29965:70b] ready get camera types
+2014-04-10 13:16:22.132 PayNearMe Mobile[29965:70b] got camera button click
+2014-04-10 13:16:22.201 PayNearMe Mobile[29965:70b] THREAD WARNING: ['Camera'] took '68.884766' ms. Plugin should use a background thread.
+2014-04-10 13:16:25.691 PayNearMe Mobile[29965:70b] got camera error  no image selected
+2014-04-10 13:16:31.442 PayNearMe Mobile[29965:70b] got camera button click
+2014-04-10 13:16:34.398 PayNearMe Mobile[29965:70b] got camera success  file:///Users/elam/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5C1D605-459C-4FEE-A7E2-1A56B61C491F/tmp/cdv_photo_015.jpg
+2014-04-10 13:16:37.596 PayNearMe Mobile[29965:70b] got camera button click
+2014-04-10 13:16:39.061 PayNearMe Mobile[29965:70b] got camera error  no image selected

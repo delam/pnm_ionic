@@ -1,7 +1,6 @@
 /Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes.dex : \
-/Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
 /Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/BuildConfig.class \
-/Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/HelloCordova.class \
+/Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/PayNearMe.class \
 /Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$attr.class \
 /Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$drawable.class \
 /Users/elam/projects/pnm_ionic/payNearMeMobile/platforms/android/ant-build/classes/com/paynearme/mobile/R$string.class \

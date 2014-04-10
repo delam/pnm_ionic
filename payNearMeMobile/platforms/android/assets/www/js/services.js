@@ -1,7 +1,7 @@
 angular.module('starter.services', ['ngResource'])
 
 .factory('SiteSearch', function($resource, $q) {
-  var sites = $resource('http://dev.paynearme.com:3000/api/get_payees.json?&version=1.8&',
+  var sites = $resource('https://alpha3-www.paynearme.com/api/get_payees.json?&version=1.8&',
       { format: 'json', callback: 'JSON_CALLBACK' },
       { 'load': { 'method': 'JSONP' } });
 
@@ -23,7 +23,7 @@ angular.module('starter.services', ['ngResource'])
 
 
 .factory('PaycodeSearch', function($resource, $q) {
-  var paycodes = $resource('http://dev.paynearme.com:3000/api/view_payment.json?uid=1a&version=2.0&',
+  var paycodes = $resource('https://alpha3-www.paynearme.com/api/view_payment.json?uid=1a&version=2.0&',
       { format: 'json', callback: 'JSON_CALLBACK' },
       { 'load': { 'method': 'JSONP' } });
 

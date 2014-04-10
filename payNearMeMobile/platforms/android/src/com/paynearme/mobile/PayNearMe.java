@@ -22,7 +22,7 @@ package com.paynearme.mobile;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class HelloCordova extends CordovaActivity 
+public class PayNearMe extends CordovaActivity
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
