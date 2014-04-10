@@ -10,12 +10,15 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
     <name>PayNearMe Mobile</name>
     <description>
         An Ionic Framework and Cordova project.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="delam@paynearme.com" href="http://www.paynearme.com/">
+      David Elam
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -25,8 +28,5 @@
     <preference name="DisallowOverscroll" value="true" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
-    </feature>
-    <feature name="Camera">
-        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
     </feature>
 </widget>

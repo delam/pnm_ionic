@@ -37,8 +37,8 @@
     <description>
         An Ionic Framework and Cordova project.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="delam@paynearme.com" href="http://www.paynearme.com/">
+      David Elam
     </author>
     <content src="index.html" />
     <access origin="*" />

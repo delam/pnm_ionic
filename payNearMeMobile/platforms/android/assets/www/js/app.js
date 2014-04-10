@@ -89,7 +89,17 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
           controller: 'PaymentCtrl'
         }
       }
-    });
+    })
+
+    .state('app.cam', {
+      url: '/cam',
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/cam.html",
+          controller: 'CamCtrl'
+        }
+      }
+    })
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/app/dashboard');
 });

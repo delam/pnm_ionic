@@ -43,6 +43,15 @@ angular.module('starter.services', ['ngResource'])
   }
 })
 
+.factory('GetUU', function() {
+  var uploadurl = "http://localhost/upl";
+  return  {
+    query: function() {
+      return uploadurl;
+    }
+  }
+})
+
 //.directive('pushSearch', function() {
 //  return {
 //    restrict: 'A',
