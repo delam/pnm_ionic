@@ -180,7 +180,7 @@ angular.module('starter.controllers', [])
 
   $scope.login = function() {
     $scope.submit({method: 'POST',
-      url: 'http://localhost:3000/single_sign_on_mobile.json',
+      url: 'http://localhost:3000/mobile_signin.json',
       data: {user: {email: $scope.login_user.email, password: $scope.login_user.password}},
       success_message: "You have been logged in.",
       error_entity: $scope.login_error});
@@ -188,7 +188,7 @@ angular.module('starter.controllers', [])
 
   $scope.logout = function() {
     $scope.submit({method: 'DELETE',
-      url: 'http://localhost:3000/signout',
+      url: 'http://localhost:3000/mobile_signout',
       success_message: "You have been logged out.",
       error_entity: $scope.login_error});
   };
