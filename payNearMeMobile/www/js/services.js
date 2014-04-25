@@ -1,9 +1,37 @@
 angular.module('starter.services', ['ngResource'])
 
+.factory('Site', ['$resource', function($resource) {
+
+  return $resource( 'http://localhost:3000/moboapi/v1/sites/:siteId.json',
+      { siteId: '@siteId' }, {
+        contract: {
+          method: 'GET',
+          params: { siteId: '@siteId' },
+          isArray: false
+        }
+      } );
+
+}])
+
+.factory('Payment', ['$resource', function($resource) {
+  return $resource('http://localhost:3000/moboapi/v1/sites/:siteId/payments/:paymentId.json',
+      {siteId:'@siteId', paymentId:'@paymentId'},{
+        query: { method: 'GET', isArray: true }
+      });
+}])
+
+.factory('Payments', ['$resource', function($resource) {
+  return $resource('http://localhost:3000/moboapi/v1/sites/:siteId/payments.json',
+      {siteId:'@siteId'},{
+        query: { method: 'GET', isArray: true }
+      });
+}])
+
 .factory('SiteSearch', function($resource, $q) {
-  var sites = $resource('https://alpha3-www.paynearme.com/api/get_payees.json?&version=1.8&',
-      { format: 'json', callback: 'JSON_CALLBACK' },
-      { 'load': { 'method': 'JSONP' } });
+
+  var sites = $resource('http://localhost:3000/moboapi/v1/sites/93.json',
+      { format: 'json' },
+      { 'load': { 'method': 'GET' } });
 
   return {
     biller_search: function(biller_query) {

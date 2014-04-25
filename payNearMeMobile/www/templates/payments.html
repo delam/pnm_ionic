@@ -8,46 +8,11 @@
           <h1>Payments</h1>
       </div>
       <div id="pnm_content" ng-controller="PaymentsCtrl">
-          <div id="biller-search-bar">
-              <p style="margin-bottom: 0px; margin-left: 5px"><b>Seach by Biller</b></p>
-              <div class="item item-input-inset">
-                  <label class="item-input-wrapper" id="biller-search-input">
-                      <i class="icon ion-search placeholder-icon"></i>
-                      <input type="text" placeholder="Search" ng-model="biller_query" ng-change="biller_search()">
-                  </label>
-              </div>
-          </div>
-
           <ion-content id="biller_content" push-search>
               <div id="sites" class="clearfix">
                   <ion-list>
-                      <ion-item ng-repeat="site in sites">
-                          {{ site.name }} -  {{ site.site_identifier }}
-                      </ion-item>
-                  </ion-list>
-              </div>
-          </ion-content>
-
-
-          <div id="paycode-search-bar">
-              <p style="margin-bottom: 0px; margin-left: 5px"><b>Search by Payment Code</b></p>
-              <div class="item item-input-inset">
-                  <label class="item-input-wrapper" id="paycode-search-input">
-                      <i class="icon ion-search placeholder-icon"></i>
-                      <input type="text" placeholder="Search" ng-model="paycode_query" ng-change="paycode_search()">
-                  </label>
-              </div>
-          </div>
-
-          <ion-content id="paycode_content" push-search>
-              <div id="paycodes" class="clearfix">
-                  <p><b>pnm_order_crid:</b> {{paycode.pnm_order_crid}}</p>
-                  <p><b>order_tracking_url:</b> {{paycode.order_tracking_url}}</p>
-                  <p><b>pnm_order_identifier:</b> {{paycode.pnm_order_identifier}}</p>
-                  <ion-list>
-                      <ion-item ng-repeat="retailer in paycode.retailers.retailer">
-                          <img src="{{ retailer.icon }}" /> {{ retailer.name }}
-                          Barcode: {{retailer.slip.full_encoding}}
+                      <ion-item ng-repeat="payment in payments">
+                          {{ payment.id }} -  {{ payment.id }}
                       </ion-item>
                   </ion-list>
               </div>

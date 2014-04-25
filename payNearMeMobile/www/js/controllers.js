@@ -17,29 +17,8 @@ angular.module('starter.controllers', [])
   ];
 })
 
-.controller('PaymentsCtrl', function($scope, SiteSearch, PaycodeSearch) {
-
-  var doBillerSearch = ionic.debounce(function(biller_query) {
-    SiteSearch.biller_search(biller_query).then(function(resp) {
-      $scope.sites = resp.result.payees.site;
-    });
-  }, 500);
-
-  var doPaycodeSearch = ionic.debounce(function(paycode_query) {
-    PaycodeSearch.paycode_search(paycode_query).then(function(resp) {
-      $scope.paycode = resp.result.order;
-    });
-  }, 500);
-
-
-  $scope.biller_search = function() {
-    doBillerSearch($scope.biller_query);
-  }
-
-  $scope.paycode_search = function() {
-    doPaycodeSearch($scope.paycode_query);
-  }
-
+.controller('PaymentsCtrl', function($scope, $window, Payments) {
+  $scope.payments = Payments.query({siteId:$window.sessionStorage.site_id})
 })
 
 .controller('PaymentRemindersCtrl', function($scope) {
@@ -174,7 +153,7 @@ angular.module('starter.controllers', [])
     };
  }])
 
-.controller( 'LoginCtrl', function LoginController( $scope, $http ) {
+.controller( 'LoginCtrl', function LoginController( $scope, $http, $window, $location ) {
   $scope.login_user = {email: null, password: null};
   $scope.login_error = {message: null, errors: {}};
 
@@ -203,6 +182,19 @@ angular.module('starter.controllers', [])
           if (status == 201 || status == 204){
             parameters.error_entity.message = parameters.success_message;
             $scope.reset_users();
+
+            // Store auth credentials
+            if(data.auth_token){
+              $window.sessionStorage.auth_token = data.auth_token;
+              $window.sessionStorage.csrf_token = data.csrf_token;
+              $window.sessionStorage.email_token = data.email_token;
+              $window.sessionStorage.site_id = data.site_id;
+
+              // redirect
+              $window.location.href = '/www/index.html#/app/dashboard';
+              return;
+            }
+
           } else {
             if (data.error) {
               parameters.error_entity.message = data.error;
